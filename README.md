@@ -12,10 +12,10 @@
 - for showing the path pass ```true``` to ```maze.printField()```
 
 ### Generated Maze without answer:
-<image src="./images/maze.png" style="height: 50%; width: auto;">
+![MAZE](./images/maze.png)
 
 ### Generated Maze with answer:
-<image src="./images/answer.png" style="height: 50%; width: auto;">
+![ANSWER](./images/answer.png)
 
 ### Just Path
-<image src="./images/path.png" style="height: 50%; width: auto;">
+![PATH](./images/path.png)
