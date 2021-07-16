@@ -1,5 +1,5 @@
 # C++ Random Maze Map Generator:
-a recursive approach for creating maze map
+a recursive approach for creating random maze map
 ### Symbols:
 - █  **→** wall/block
 - \* **→** Bomb
