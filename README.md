@@ -1,4 +1,4 @@
-# cpp-maze-map-generator
+# C++ Random Maze Map Generator:
 a recursive approach for creating maze map
 ### Symbols:
 - █  **→** wall/block
