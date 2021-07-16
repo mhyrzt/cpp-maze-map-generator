@@ -15,8 +15,8 @@
 #define X_AXIS		0
 #define Y_AXIS		1
 
-#define WIDTH_MAZE	150
-#define HEIGHT_MAZE	50
+#define WIDTH_MAZE	90
+#define HEIGHT_MAZE	30
 
 #define SYMBOL_BLOCK	219u
 #define SYMBOL_BOMB		'*'	
@@ -519,7 +519,7 @@ int main(){
     Maze maze;
 	bool gameStat = maze.getGameOver();
 	
-	maze.printField(!true); //Convert To Ture for find out the solution :)))
+	maze.printField(); //Convert To Ture for find out the solution :)))
 	while(!gameStat){
 		maze.execute();
 		gameStat = maze.getGameOver();
