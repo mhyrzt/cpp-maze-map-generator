@@ -8,8 +8,8 @@ a recursive approach for creating random maze map
 - \+ **→** correct path
   
 ### Notes:
-- comment Line ```456``` for removing bombs and bombs within the map
-- for showing the path pass ```true``` to ```maze.printField()```
+- comment Line ```456``` for removing walls and bombs within the map
+- for showing the path, pass ```true``` to ```maze.printField()```
 
 ### Generated Maze without answer
 ```
